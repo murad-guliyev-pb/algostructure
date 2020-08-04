@@ -1,3 +1,8 @@
+/*
+    Runtime: 100 ms, faster than 34.86% of JavaScript online submissions for Reverse Integer.
+    Memory Usage: 38.8 MB, less than 6.16% of JavaScript online submissions for Reverse Integer.
+*/
+
 /**
  * @param {number} x
  * @return {number}

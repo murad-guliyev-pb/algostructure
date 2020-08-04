@@ -1,3 +1,8 @@
+/*
+    Runtime: 72 ms, faster than 80.13% of JavaScript online submissions for Longest Common Prefix.
+    Memory Usage: 36.8 MB, less than 64.57% of JavaScript online submissions for Longest Common Prefix.
+*/
+
 /**
  * @param {string[]} strs
  * @return {string}

@@ -1,3 +1,9 @@
+/*
+    Runtime: 224 ms, faster than 51.26% of JavaScript online submissions for Palindrome Number.
+    Memory Usage: 46 MB, less than 54.55% of JavaScript online submissions for Palindrome Number.
+*/
+
+
 /**
  * @param {number} x
  * @return {boolean}

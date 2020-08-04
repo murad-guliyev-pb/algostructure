@@ -1,3 +1,8 @@
+/*
+    Runtime: 164 ms, faster than 55.24% of JavaScript online submissions for Roman to Integer.
+    Memory Usage: 41.6 MB, less than 92.77% of JavaScript online submissions for Roman to Integer.
+/*
+
 /**
  * @param {string} s
  * @return {number}
