@@ -3,7 +3,6 @@
     Memory Usage: 36.7 MB, less than 36.42% of JavaScript online submissions for Valid Parentheses.
 /*
 
-
 /**
  * @param {string} s
  * @return {boolean}

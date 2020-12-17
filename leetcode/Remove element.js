@@ -20,6 +20,10 @@ var removeElement = function(nums, val) {
     return nums.length;
 };
 
+
+// -----------------------------------------------------------------------------------------------------
+
+
 /*
     Runtime: 76 ms, faster than 46.68% of JavaScript online submissions for Remove Element.
     Memory Usage: 36.3 MB, less than 5.63% of JavaScript online submissions for Remove Element.

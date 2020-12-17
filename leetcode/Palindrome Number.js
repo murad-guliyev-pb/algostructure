@@ -3,7 +3,6 @@
     Memory Usage: 46 MB, less than 54.55% of JavaScript online submissions for Palindrome Number.
 */
 
-
 /**
  * @param {number} x
  * @return {boolean}

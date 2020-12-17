@@ -3,7 +3,6 @@
     Memory Usage: 38.8 MB, less than 77.10% of JavaScript online submissions for Remove Duplicates from Sorted Array.
 */
 
-
 /**
  * @param {number[]} nums
  * @return {number}
