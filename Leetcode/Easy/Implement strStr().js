@@ -1,4 +1,4 @@
-/* Could not find! SHAME SHAME SHAME!
+/*
     Runtime: 68 ms, faster than 84.04% of JavaScript online submissions for Implement strStr().
     Memory Usage: 37 MB, less than 44.68% of JavaScript online submissions for Implement strStr().
 */
@@ -61,17 +61,15 @@ var strStr = function(haystack, needle) {
     
     let index = -1;
     
-    for(let i=0; i< haystack.length; i++) {
-        
+    for(let i = 0; i< haystack.length; i++) {
         if(index !== -1) break;
         
-        if(haystack[i] === needle[0]) {
-            index = i;
-            for(let j=1; j<needle.length; j++) {
-                if(haystack[i + j] !== needle[j]) {
-                    index = -1;
-                    break;
-                }
+        for(let j = 0; j < needle.length; j++) {
+            if(haystack[i + j] !== needle[j]) {
+                break;
+            }
+            if(j === needle.length - 1) {
+                index = i
             }
         }
     }
